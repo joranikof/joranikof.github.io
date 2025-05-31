@@ -1,3 +1,9 @@
-# README.md
+# My Project
 
-## test
+Welcome to my project!
+
+## Documentation
+
+- [Getting Started](getting-started.md)
+- [API Guide](api/guide.md)
+- [Examples](examples.md)
