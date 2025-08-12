@@ -1,4 +1,4 @@
-# docsifyを使ったgithub　pageセットアップ
+# docsifyを使ったgithub pageセットアップ
 
 ## 概要
 - github pageを利用
@@ -26,5 +26,7 @@
         http://localhost:3000/#/docs/test1  // docs/test2.md
         ```
 - giihub pageにデプロイ
+    - アクセスして確認
+        - https://joranikof.github.io/#/
 
 ## docsifyページのカスタマイズ
