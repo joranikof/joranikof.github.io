@@ -1,4 +1,4 @@
-# github_page_docsify_setup.md
+# docsifyを使ったgithub pageセットアップ
 
 ## 概要
 - github pageを利用
@@ -12,8 +12,21 @@
 - github pageセットアップ
 - docsifyのページでindex.htmlを取得 (!!npmでdocsify-cliは入れなくてよい!!)
     - https://docsify.js.org/#/quickstart?id=manual-initialization
+- ファイルの準備
+    - index.html    // docsifyのファイル
+    - README.md     // HOMEになる。ファイル名は固定、内容自由
+    - xxx.md        // 記事
+    - .nojekyll     // github pageでjekyllを使わず、静的サイトにするもの
 - localで表示確認
-    python(or python3) -m http.server 3000
+    - python(or python3) -m http.server 3000
+    - 以下urlでページ確認
+        ```
+        http://localhost:3000/#             // home
+        http://localhost:3000/#/test1       // test1.md
+        http://localhost:3000/#/docs/test1  // docs/test2.md
+        ```
 - giihub pageにデプロイ
+    - アクセスして確認
+        - https://joranikof.github.io/#/
 
 ## docsifyページのカスタマイズ
