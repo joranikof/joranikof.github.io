@@ -1,21 +1,13 @@
 # Rust_文法
 
-## study sources
+## 文字列
 
-れんしゅう
+### ２種類の構造体
 
+- String型
 
-aaaaa
+- str型
 
-
-れんしゅうああaaaaaaaaaaafvoijefewefijasdfdsf
-sdfwefsdsdfあaaaあ
-https://rustlings.rust-lang.org/
-
-## 不明点
-- mutなしの場合との違いは？
-- コンパイル過程のC言語見れないの？
-  - これは見れなかった。cargo rustc -- --emit=llvm-ir
 
 ## 変数
 - 宣言の仕方
