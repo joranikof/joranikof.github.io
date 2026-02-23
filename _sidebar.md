@@ -4,6 +4,11 @@
 * [Home](/)
 
 * <hr>
+* *STマイコン*
+* [STマイコン環境セットアップ](/docs/stm_env_setup.md)
+* [STマイコン_資料](/docs/stm_docs.md)
+
+* <hr>
 * *Rust*
 * [Rust環境セットアップ](/docs/rust_env_setup.md)
 * [Rust_使い方基本](/docs/rust_usage_basics.md)
